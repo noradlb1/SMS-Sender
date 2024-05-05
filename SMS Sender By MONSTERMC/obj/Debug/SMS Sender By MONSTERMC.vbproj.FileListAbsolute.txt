@@ -1,0 +1,16 @@
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\SMS Sender By MONSTERMC.exe.config
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\SMS Sender By MONSTERMC.exe
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\SMS Sender By MONSTERMC.pdb
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\SMS Sender By MONSTERMC.xml
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS_Sender_By_MONSTERMC.Resources.resources
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS Sender By MONSTERMC.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS Sender By MONSTERMC.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS Sender By MONSTERMC.exe
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS Sender By MONSTERMC.xml
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS Sender By MONSTERMC.pdb
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS_Sender_By_MONSTERMC.Form1.resources
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\GSMCommServer.dll
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\GSMCommShared.dll
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\GSMCommunication.dll
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\bin\Debug\PDUConverter.dll
+C:\Users\MONSTERMC\source\repos\SMS Sender By MONSTERMC\SMS Sender By MONSTERMC\obj\Debug\SMS Sender By MONSTERMC.vbproj.CopyComplete
